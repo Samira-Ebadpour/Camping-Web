@@ -16,7 +16,7 @@ let navOpen = false ;
     }
    })
     
-//    Scroll bar ///////////////////////////////////////////////
+//    Scroll bar   //
 
 let customScroll = document.querySelector('#scroll')
 
