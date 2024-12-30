@@ -1,5 +1,7 @@
 
 @media (max-width:380px) {
+  
+
    .header-content__title{
     font-size: 4rem;
    }
@@ -27,13 +29,16 @@
 }
 
 
-@media (min-width:576px) {
+@media (max-width:576px) {
+   /* button, a {
+      -webkit-tap-highlight-color: transparent;
+   } */
    
 }
 
 
 @media (min-width:768px) {
-
+   
    .nav__btn, .nav-menu{
     display:none;
    } 
